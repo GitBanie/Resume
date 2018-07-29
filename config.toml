@@ -1,0 +1,36 @@
+baseURL = "https://example.com/"
+languageCode = "en-US"
+title = "Christopher Navas"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Christopher"
+    lastName = "Navas"
+    address = "Paris, France"
+    phone = "+33637812593"
+    contactNote = "Développeur web"
+    profileImage = "img/me.jpg"
+    email = "christo.navas@hotmail.fr"
+    description = "Développeur web"
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/christopher-navas/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/GitBanie"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"

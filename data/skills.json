@@ -1,0 +1,23 @@
+[
+  {
+      "grouping":"Front-End",
+      "skills":["HTML5", "CSS3","javascript", "jquery", "bootstrap", "sass", "gulp", {"name":"hugo","link":"https://gohugo.io/"}, "npm"]
+  },
+  {
+      "grouping":"Back-End",
+      "skills":[ "PHP","MySQL", "Laravel"]
+  },
+  {
+      "grouping":"Mobile",
+      "skills":[ "Java", {"name": "Android Studio", "link": "https://developer.android.com/" }, {"name": "Cordova" ,"link": "https://cordova.apache.org/" }, {"name": "Framework 7", "link": "https://framework7.io/" }]
+  },
+  {
+      "grouping":"CMS",
+      "skills":[ "WordPress",{"name": "Prestashop", "link": "https://www.prestashop.com/fr"}]
+  },
+  {
+    "grouping":"Autres",
+      "skills":["SCRUM", {"name":"Monday", "link": "https://monday.com/"}, "Git", "Linux"
+      ]
+  }
+]

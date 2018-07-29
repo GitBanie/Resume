@@ -1,0 +1,19 @@
+[
+    {
+        "school":"L'école Multimédia",
+        "degree":"RNCP II",
+        "major":"Développeur Multimédia",
+        "range":"2017 - 2018"
+    },
+    {
+        "school":"ORT Daniel Mayer",
+        "degree":"RNCP II",
+        "major":"Concepteur de Systèmes d'Information",
+        "range":"2016 - 2017"
+    },
+    {
+        "school":"ORT Daniel Mayer",
+        "major":"Prepa Chef de projet Web",
+        "range":"2015 - 2016"
+    }
+]
