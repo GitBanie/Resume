@@ -21,7 +21,7 @@ theme = "hugo-resume"
     showExperience = true
     showEducation = true
 
-    showQr = true
+    showQr = false
 
 [[params.handles]]
     name = "LinkedIn"

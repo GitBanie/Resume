@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #3e202a;
+  color: #3f65b4;
 }
 
 .list-social-icons a .fa-lg {
@@ -56,7 +56,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #3e202a;
+  color: #3f65b4;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -83,7 +83,7 @@ h2 {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.2rem solid white;
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -131,15 +131,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #3e202a !important;
+  background-color: #3f65b4 !important;
 }
 
 .text-primary {
-  color: #3e202a !important;
+  color: #3f65b4 !important;
 }
 
 a {
-  color: #3e202a;
+  color: #3f65b4;
 }
 
 a:hover, a:focus, a:active {
