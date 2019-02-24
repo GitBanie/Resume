@@ -1,5 +1,11 @@
 [
     {
+        "school":"Web School Factory",
+        "degree":"Mastère",
+        "major":"Management Innovation Numérique",
+        "range":"2018 - 2021"
+    },
+    {
         "school":"L'école Multimédia",
         "degree":"RNCP II",
         "major":"Développeur Multimédia",

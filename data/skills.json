@@ -1,15 +1,15 @@
 [
   {
       "grouping":"Front-End",
-      "skills":["HTML5", "CSS3","javascript", "jquery", "bootstrap", "sass", "gulp", {"name":"hugo","link":"https://gohugo.io/"}, "npm"]
+      "skills":["HTML5", "CSS3","javascript", "jquery", "bootstrap", "sass", "gulp", "npm"]
   },
   {
       "grouping":"Back-End",
-      "skills":[ "PHP","MySQL", "Laravel"]
+      "skills":[ "PHP","MySQL", "Laravel", "Python", "Go"]
   },
   {
       "grouping":"Mobile",
-      "skills":[ "Java", {"name": "Android Studio", "link": "https://developer.android.com/" }, {"name": "Cordova" ,"link": "https://cordova.apache.org/" }, {"name": "Framework 7", "link": "https://framework7.io/" }]
+      "skills":[ "Java", "Swift", {"name": "Android Studio", "link": "https://developer.android.com/" }, {"name": "Cordova" ,"link": "https://cordova.apache.org/" }, {"name": "Framework 7", "link": "https://framework7.io/" }]
   },
   {
       "grouping":"CMS",
@@ -17,7 +17,6 @@
   },
   {
     "grouping":"Autres",
-      "skills":["SCRUM", {"name":"Monday", "link": "https://monday.com/"}, "Git", "Linux"
-      ]
+      "skills":["SCRUM", "Git", "Linux", "Heroku", "Docker"]
   }
 ]
