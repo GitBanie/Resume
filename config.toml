@@ -11,7 +11,7 @@ theme = "hugo-resume"
     contactNote = "Développeur web"
     profileImage = "img/me.jpg"
     email = "christo.navas@hotmail.fr"
-    description = "Développeur web"
+    description = "Développeur web / Étudiant en 3eme année à la Web School Factory"
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
@@ -30,7 +30,7 @@ theme = "hugo-resume"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/GitBanie"
+    link = "https://github.com/christophernavas/"
 
 [params.google.analytics]
     trackerID = "XX-123446-01"

@@ -1,25 +1,30 @@
 [
     {
         "school":"Web School Factory",
-        "degree":"Mastère",
-        "major":"Management Innovation Numérique",
+        "degree":"Mastère Management de l'Innovation Numérique",
+        "description":"L'objectif de la formation, devenir un futur manager du web, doté d’une vision globale, d’une réelle polyvalence et d’une expertise. L'enseignement est basé sur trois pôles : Design, Marketing et Technologies numériques, tout en étant accompagnés par de nombreux projets réalisés avec des entreprises partenaires.",
+        "linkDegree": "https://www.webschoolfactory.fr/mastere-management-innovation-numerique",
         "range":"2018 - 2021"
     },
     {
         "school":"L'école Multimédia",
-        "degree":"RNCP II",
-        "major":"Développeur Multimédia",
+        "degree":"RNCP II Développeur Multimédia",
+        "description":"Maîtriser les langages et les méthodes de programmation propres à Internet. Intégrer, programmer un site web et des applications mobiles hybrides. Préconiser des solutions et rédiger un cahier de spécifications techniques. Appliquer les standards de qualité web et accessibilité. ",
+        "linkDegree": "https://www.ecole-multimedia.com/fr/nos-formations/formation-continue/informatique-multimedia/developpeur-multimedia-1317.html",
         "range":"2017 - 2018"
     },
     {
         "school":"ORT Daniel Mayer",
-        "degree":"RNCP II",
-        "major":"Concepteur de Systèmes d'Information",
+        "degree":"RNCP II Concepteur de Systèmes d'Information",
+        "description":"Le Cycle Bachelor s'articule autour d'une solide formation en informatique et d'une large ouverture sur les matières dites de développement personnel (incontournables pour devenir chef de projet par exemple). Il est complété par des cours dispensés sciences économiques et humaines (management, droit...).",
+        "linkDegree": "http://www.3il-academy.fr/bachelor-3-csi-2/",
         "range":"2016 - 2017"
     },
     {
         "school":"ORT Daniel Mayer",
-        "major":"Prepa Chef de projet Web",
+        "degree":"Prepa Chef de projet Web",
+        "description": "Maîtrise des bases, notions indispensables communes à tous les métiers du digital. Initiation à la culture web & multimédia, Web design, code, marketing, management de projets.",
+        "linkDegree": "https://www.ortmontreuil.fr/formations/prepa-web-sr-20.html",
         "range":"2015 - 2016"
     }
 ]

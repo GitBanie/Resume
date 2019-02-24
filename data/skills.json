@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Front-End",
-      "skills":["HTML5", "CSS3","javascript", "jquery", "bootstrap", "vuejs", "sass", "gulp", "webpack"]
+      "skills":["HTML5", "CSS3","Javascript", "jQuery", "Bootstrap", "Vuejs", "Sass", "Gulp", "Webpack"]
   },
   {
       "grouping":"Back-End",

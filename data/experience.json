@@ -1,17 +1,29 @@
-[
-    {
-        "role":"Développeur web",
-        "company":"Yellowkorner",
-        "range":"Avril 2018 - Juillet 2018"
+[{
+        "role": "Développeur font-end",
+        "company": "Kameleos",
+        "companyLink": "https://www.kameleos.com/",
+        "summary": "Développement de la plateforme d'e-learning en Vue.js avec l'utilisation du framework Quasar.",
+        "range": "Février 2019 - Juin 2019"
     },
     {
-        "role":"Développeur web",
-        "company":"La Compagnie du Blanc",
-        "range":"Janvier 2017 - Août 2017"
+        "role": "Développeur web",
+        "company": "Yellowkorner",
+        "companyLink": "http://www.yellowkorner.com/fr-fr/home",
+        "summary": "Développement d'un CMS écrit en PHP, refonte du site Zeinberg, refonte du site YellowKorner.",
+        "range": "Avril 2018 - Juillet 2018"
     },
     {
-        "role":"Webmaster",
-        "company":"La Compagnie du Blanc",
-        "range":"Mai 2016 - Juin 2016"
+        "role": "Développeur web",
+        "company": "La Compagnie du Blanc",
+        "companyLink": "https://www.lacompagniedublanc.com/",
+        "summary": "Création d'un blog sur WordPress à partir d'une charte graphique et d'une maquette web, gestion des stocks par code barre, maintenance du site web.",
+        "range": "Janvier 2017 - Août 2017"
+    },
+    {
+        "role": "Webmaster",
+        "company": "La Compagnie du Blanc",
+        "companyLink": "https://www.lacompagniedublanc.com/",
+        "summary": "Analyse et proposition d'un nouveau design, description du catalogue produit, maintenance du contenu éditorial, aide à la refonte du site internet, optimisation SEO.",
+        "range": "Mai 2016 - Juin 2016"
     }
 ]

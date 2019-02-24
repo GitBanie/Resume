@@ -143,9 +143,13 @@ a {
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #3f65b4;
 }
 
 img {
   max-width:80%;
+}
+
+.devicons {
+  color: #3f65b4;
 }
